@@ -1,0 +1,15 @@
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\bin\HoiioWCFService.dll
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\bin\HoiioWCFService.pdb
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\bin\System.ServiceModel.Activation.dll
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\obj\Release\ResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\obj\Release\HoiioWCFService.dll
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\obj\Release\HoiioWCFService.pdb
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\bin\HoiioSDK.NET.dll
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\bin\Newtonsoft.Json.dll
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\bin\HoiioSDK.NET.pdb
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\bin\Newtonsoft.Json.pdb
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\WCFServiceWebRole1\bin\Newtonsoft.Json.xml

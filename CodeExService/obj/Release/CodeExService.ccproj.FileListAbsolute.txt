@@ -1,0 +1,15 @@
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\bin\Release\ServiceConfiguration.cscfg
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\bin\HoiioSDK.NET.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\bin\HoiioWCFService.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\bin\Newtonsoft.Json.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\bin\Newtonsoft.Json.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\bin\System.ServiceModel.Activation.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\CommService.svc
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\Global.asax
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\packages.config
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\SMSService.svc
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Release\HoiioWCFService\Web.config

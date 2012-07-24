@@ -1,0 +1,13 @@
+c:\users\owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Debug\HoiioWCFService\bin\HoiioSDK.NET.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Debug\HoiioWCFService\bin\HoiioSDK.NET.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Debug\HoiioWCFService\bin\HoiioWCFService.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Debug\HoiioWCFService\bin\HoiioWCFService.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Debug\HoiioWCFService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Debug\HoiioWCFService\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Debug\HoiioWCFService\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Debug\HoiioWCFService\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Debug\HoiioWCFService\bin\Newtonsoft.Json.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Debug\HoiioWCFService\bin\Newtonsoft.Json.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Debug\HoiioWCFService\bin\Newtonsoft.Json.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\CodeExService\CodeExService\obj\Debug\HoiioWCFService\bin\System.ServiceModel.Activation.dll

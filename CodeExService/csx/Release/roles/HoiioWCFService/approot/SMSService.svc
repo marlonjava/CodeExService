@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="HoiioWCFService.SMSService" CodeBehind="SMSService.svc.cs" %>

@@ -1,0 +1,24 @@
+C:\My Documents\Visual Studio 2008\Projects\HoiioSDKTestApp.NET\HoiioSDK.NET\bin\Debug\HoiioSDK.NET.dll
+C:\My Documents\Visual Studio 2008\Projects\HoiioSDKTestApp.NET\HoiioSDK.NET\bin\Debug\HoiioSDK.NET.pdb
+C:\My Documents\Visual Studio 2008\Projects\HoiioSDKTestApp.NET\HoiioSDK.NET\bin\Debug\Newtonsoft.Json.dll
+C:\My Documents\Visual Studio 2008\Projects\HoiioSDKTestApp.NET\HoiioSDK.NET\bin\Debug\Newtonsoft.Json.pdb
+C:\My Documents\Visual Studio 2008\Projects\HoiioSDKTestApp.NET\HoiioSDK.NET\bin\Debug\Newtonsoft.Json.xml
+C:\My Documents\Visual Studio 2008\Projects\HoiioSDKTestApp.NET\HoiioSDK.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\Visual Studio 2008\Projects\HoiioSDKTestApp.NET\HoiioSDK.NET\obj\Debug\HoiioSDK.NET.dll
+C:\My Documents\Visual Studio 2008\Projects\HoiioSDKTestApp.NET\HoiioSDK.NET\obj\Debug\HoiioSDK.NET.pdb
+C:\My Documents\Visual Studio 2010\HoiioSDK.NET\HoiioSDK.NET\bin\Debug\HoiioSDK.NET.dll
+C:\My Documents\Visual Studio 2010\HoiioSDK.NET\HoiioSDK.NET\bin\Debug\HoiioSDK.NET.pdb
+C:\My Documents\Visual Studio 2010\HoiioSDK.NET\HoiioSDK.NET\bin\Debug\Newtonsoft.Json.dll
+C:\My Documents\Visual Studio 2010\HoiioSDK.NET\HoiioSDK.NET\bin\Debug\Newtonsoft.Json.pdb
+C:\My Documents\Visual Studio 2010\HoiioSDK.NET\HoiioSDK.NET\bin\Debug\Newtonsoft.Json.xml
+C:\My Documents\Visual Studio 2010\HoiioSDK.NET\HoiioSDK.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\Visual Studio 2010\HoiioSDK.NET\HoiioSDK.NET\obj\Debug\HoiioSDK.NET.dll
+C:\My Documents\Visual Studio 2010\HoiioSDK.NET\HoiioSDK.NET\obj\Debug\HoiioSDK.NET.pdb
+D:\GIT\HoiioSDK.NET\HoiioSDK.NET\bin\Debug\HoiioSDK.NET.dll
+D:\GIT\HoiioSDK.NET\HoiioSDK.NET\bin\Debug\HoiioSDK.NET.pdb
+D:\GIT\HoiioSDK.NET\HoiioSDK.NET\bin\Debug\Newtonsoft.Json.dll
+D:\GIT\HoiioSDK.NET\HoiioSDK.NET\bin\Debug\Newtonsoft.Json.pdb
+D:\GIT\HoiioSDK.NET\HoiioSDK.NET\bin\Debug\Newtonsoft.Json.xml
+D:\GIT\HoiioSDK.NET\HoiioSDK.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\GIT\HoiioSDK.NET\HoiioSDK.NET\obj\Debug\HoiioSDK.NET.dll
+D:\GIT\HoiioSDK.NET\HoiioSDK.NET\obj\Debug\HoiioSDK.NET.pdb
